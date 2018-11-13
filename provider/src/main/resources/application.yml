@@ -9,4 +9,4 @@ eureka:
     prefer-ip-address: true # 注册服务的时候使用服务的ip地址
   client:
     service-url:
-      defaultZone: http://39.106.62.195:9500//eureka/
+      defaultZone: http://localhost:9500//eureka/
