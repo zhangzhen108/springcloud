@@ -1,6 +1,7 @@
 # Java class files
 *.class
-/target
+target/
+idea/
 # Generated files
 bin/
 gen/
