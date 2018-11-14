@@ -1,0 +1,3 @@
+com\order\OrderServerOneApplication.class
+com\order\controller\OrderServerController.class
+com\order\config\SwaggerConfig.class
