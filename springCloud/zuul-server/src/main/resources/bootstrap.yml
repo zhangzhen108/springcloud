@@ -9,9 +9,9 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone:   http://localhost:8080/eureka/
+      defaultZone:   http://localhost:8090/eureka/
   instance:
-    status-page-url: http://localhost:8081/swagger-ui.html
+    status-page-url: http://localhost:8092/swagger-ui.html
 ##  日志
 logging:
   level:
